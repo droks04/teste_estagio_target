@@ -17,7 +17,7 @@ imprimir(SOMA);
 ```
 Ao final do processamento, qual será o valor da variável SOMA?
 
-**Reposta questão 1: 91** --- [teste]([url](https://github.com/droks04/teste_estagio_target/blob/master/soma/soma.py))
+**Reposta questão 1: 91** --- [teste](https://github.com/droks04/teste_estagio_target/blob/master/soma/soma.py)
 
 
 2) Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
@@ -71,6 +71,5 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
-Resposta questão 5: [Codigo]([url](https://github.com/droks04/teste_estagio_target/blob/master/soma/soma.py)https://github.com/droks04/teste_estagio_target/blob/master/reverter_string/reserve.py)
-
+Resposta questão 5: [Codigo](https://github.com/droks04/teste_estagio_target/blob/master/reverter_string/reserve.py)
 

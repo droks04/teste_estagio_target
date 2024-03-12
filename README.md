@@ -71,5 +71,5 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
-Resposta questão 5: [Codigo](https://github.com/droks04/teste_estagio_target/blob/master/reverter_string/reserve.py)
+Resposta questão 5: [Codigo](https://github.com/droks04/teste_estagio_target/blob/master/reverter_string/reverse.py)
 
